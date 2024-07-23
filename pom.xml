@@ -12,6 +12,7 @@
         <module>common</module>
         <module>metier</module>
         <module>ihm</module>
+        <module>web</module>
     </modules>
 
     <properties>
